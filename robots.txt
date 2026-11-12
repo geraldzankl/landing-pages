@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# HTML noindex directives are authoritative. No sitemap is published.
